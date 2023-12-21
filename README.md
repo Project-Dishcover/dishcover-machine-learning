@@ -23,6 +23,9 @@ To run the notebook, you need the following dependencies:
 
 - [Python 3.x](https://www.python.org/downloads/)
 - [Tensorflow](https://www.tensorflow.org/)
+- [Keras](https://www.tensorflow.org/guide/keras?hl=id)
 - [Tensorflow EarlyStopping](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping)
 - [InceptionV3](https://keras.io/api/applications/inceptionv3/)
 - [numpy](https://numpy.org/)
+- [PIL](https://pillow.readthedocs.io/en/stable/)
+  
